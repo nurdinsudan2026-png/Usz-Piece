@@ -1,2 +1,0 @@
-# Usz-Piece
-UszHub script
